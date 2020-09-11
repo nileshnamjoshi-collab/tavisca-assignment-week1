@@ -1,0 +1,100 @@
+{
+  "login": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "username": "admin1",
+      "password": "admin1",
+      "id": "PWUs4OZ"
+    },
+    {
+      "username": "tavisca",
+      "password": "tavisca",
+      "id": "yQCH5Xt"
+    },
+    {
+      "username": "vaibhav",
+      "password": "vaibhav",
+      "id": "7alg37n"
+    }
+  ],
+  "data": [
+    {
+      "title": "Google",
+      "desc": "www.google.com",
+      "categories": [
+        "Search Engine"
+      ],
+      "userId": "3",
+      "id": 1
+    },
+    {
+      "title": "linkedIn",
+      "desc": "www.linkedin.com/",
+      "categories": [
+        "Social"
+      ],
+      "userId": "3",
+      "id": 2
+    },
+    {
+      "title": "xcv",
+      "desc": "cvcv",
+      "categories": [
+        "Art"
+      ],
+      "userId": "3",
+      "id": 3
+    },
+    {
+      "title": "xcv",
+      "desc": "cvcv",
+      "categories": [
+        "Art"
+      ],
+      "userId": "3",
+      "id": 4
+    },
+    {
+      "title": "xcv",
+      "desc": "cvcv",
+      "categories": [
+        "Art"
+      ],
+      "userId": "3",
+      "id": 5
+    },
+    {
+      "title": "xcv",
+      "desc": "cvcv",
+      "categories": [
+        "Art",
+        "adfa",
+        "Art",
+        "adfa",
+        "Art",
+        "adfa",
+        "Art",
+        "adfa",
+        "Art",
+        "adfa",
+        "Art",
+        "adfa"
+      ],
+      "userId": "3",
+      "id": 6
+    },
+    {
+      "title": "xcv",
+      "desc": "cvcv",
+      "categories": [
+        "Art"
+      ],
+      "userId": "3",
+      "id": 7
+    }
+  ]
+}
